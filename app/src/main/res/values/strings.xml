@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Permissions Codelab</string>
+    <string name="permission_required">Camera access is required to display the camera preview.</string> <!-- I added this line -->
+    <string name="ok">OK</string> <!-- I added this line -->
+    <string name="permission_granted">Permission is granted. You can use the camera now.</string> <!-- I added this line -->
+</resources>
